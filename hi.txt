@@ -1,1 +1,6 @@
-printf("hello world");
+function new_func(){
+	console.log("do something");
+}	
+
+console.log("hello world");
+
