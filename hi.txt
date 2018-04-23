@@ -1,6 +1,6 @@
 function new_func(){
-	console.log("do something");
-}	
+    console.log("done");
+}
 
 console.log("hello world");
 
